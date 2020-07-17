@@ -42,6 +42,6 @@
 
 
 ##### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves@JCharisTech
-+ Streamlit is Awesome
++ Kunal Verma
++ Data scientist
++ Ml and deep learning
